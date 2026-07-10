@@ -50,7 +50,7 @@ Below are the validation metrics and execution dashboards processed across our d
 
 ## ⚙️ How It Works
 1. **Describe your idea:** Input your ad copy, product description, or marketing concept.
-2. **Select your target audience:** Underlying backend routes context parameters automatically.
+2. **Include your target audience in the description:** Underlying backend routes context parameters automatically.
 3. **AI generates realistic personas:** Multi-agent behaviors are assigned dynamically.
 4. **Personas react independently:** Agents critique concepts natively with realistic domain-specific jargon.
 5. **Dashboard Synthesis:** Insights and sentiment trends are automatically summarized.

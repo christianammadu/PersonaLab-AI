@@ -1,0 +1,10 @@
+{
+  "name": "Sarah",
+  "occupation": "University Student",
+  "demographics": { "age": 21, "income_tier": "Low (Budget-Constrained)", "device_usage": "Mobile 85%, Laptop 15%" },
+  "psychographics": {
+    "mbti_inspiration": "ENFP",
+    "ocean_scores": { "openness": 0.90, "conscientiousness": 0.40, "extraversion": 0.85, "agreeableness": 0.75, "neuroticism": 0.60 }
+  },
+  "consumer_behavior": { "price_sensitivity": "Extreme", "primary_trigger": "Peer verification & social trends", "trust_threshold": "Low" }
+}

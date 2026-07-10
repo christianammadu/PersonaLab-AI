@@ -1,0 +1,10 @@
+{
+  "name": "Alex",
+  "occupation": "Small Business Owner",
+  "demographics": { "age": 42, "income_tier": "High", "device_usage": "Desktop 40%, Mobile 60%" },
+  "psychographics": {
+    "mbti_inspiration": "ESTJ",
+    "ocean_scores": { "openness": 0.50, "conscientiousness": 0.95, "extraversion": 0.70, "agreeableness": 0.60, "neuroticism": 0.30 }
+  },
+  "consumer_behavior": { "price_sensitivity": "Low (ROI-Focused)", "primary_trigger": "Automation & time efficiency", "trust_threshold": "High" }
+}

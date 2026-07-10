@@ -1,0 +1,24 @@
+{
+  "name": "Chris",
+  "occupation": "Software Engineer",
+  "demographics": {
+    "age": 29,
+    "income_tier": "High",
+    "device_usage": "Desktop 75%, Mobile 25%"
+  },
+  "psychographics": {
+    "mbti_inspiration": "INTJ",
+    "ocean_scores": {
+      "openness": 0.85,
+      "conscientiousness": 0.90,
+      "extraversion": 0.30,
+      "agreeableness": 0.45,
+      "neuroticism": 0.35
+    }
+  },
+  "consumer_behavior": {
+    "price_sensitivity": "Low (Willing to pay for premium toolkits)",
+    "primary_trigger": "Data privacy, API modularity, integration ecosystem, and zero fluff",
+    "trust_threshold": "Extreme (Demands visible compliance security models and explicit data ownership agreements)"
+  }
+}

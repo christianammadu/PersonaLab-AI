@@ -1,0 +1,24 @@
+{
+  "name": "Maria",
+  "occupation": "Primary School Teacher / Mother of two",
+  "demographics": {
+    "age": 36,
+    "income_tier": "Medium",
+    "device_usage": "Mobile 90%, Tablet 10%"
+  },
+  "psychographics": {
+    "mbti_inspiration": "ISFJ",
+    "ocean_scores": {
+      "openness": 0.45,
+      "conscientiousness": 0.85,
+      "extraversion": 0.40,
+      "agreeableness": 0.80,
+      "neuroticism": 0.50
+    }
+  },
+  "consumer_behavior": {
+    "price_sensitivity": "Medium",
+    "primary_trigger": "Simplified UX, household reliability, and family safety",
+    "trust_threshold": "High (Requires immediate transparency, clear text, and no hidden loops)"
+  }
+}

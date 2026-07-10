@@ -1,4 +1,4 @@
-# PersonaLab AI 🧪
+# PersonaLab AI 
 > **"Test your ideas before the world does."**
 
 AI-powered customer simulation focus groups built seamlessly on AMD Developer Cloud and Fireworks AI infrastructure.
@@ -38,13 +38,13 @@ PersonaLab AI creates realistic AI personas with diverse demographics, personali
 Below are the validation metrics and execution dashboards processed across our distributed compute layers:
 
 ### 🖥️ Core Simulator Dashboard
-![Core Dashboard UI](./Dashboard 1.jpeg)
+![Core Dashboard UI](./Dashboard%201.jpeg)
 
 ### 📈 Multi-Agent Behavioral Persona Metrics
-![Individual Persona Responses](./Dashboard 2.jpeg)
+![Individual Persona Responses](./Dashboard%202.jpeg)
 
 ### ⚙️ Live API Ingestion & JSON Metrics Layer
-![Inference JSON View](./Metrics json data view.jpeg)
+![Inference JSON View](./Metrics%20json%20data%20view.jpeg)
 
 ---
 

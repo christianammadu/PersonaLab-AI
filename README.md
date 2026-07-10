@@ -49,11 +49,12 @@ Below are the validation metrics and execution dashboards processed across our d
 ---
 
 ## ⚙️ How It Works
-1. **Describe your idea:** Input your ad copy, product description, or marketing concept.
-2. **Include your target audience in the description:** Underlying backend routes context parameters automatically.
-3. **AI generates realistic personas:** Multi-agent behaviors are assigned dynamically.
-4. **Personas react independently:** Agents critique concepts natively with realistic domain-specific jargon.
-5. **Dashboard Synthesis:** Insights and sentiment trends are automatically summarized.
+
+1. **Describe your idea:** Input your ad copy, product description, or marketing concept directly into the simulation center.
+2. **Include your target audience parameters:** To test a specific demographic, simply weave your target audience context directly into your description text (e.g., *"An app for small business owners..."*). The underlying backend automatically extracts these context indicators from your text.
+3. **Instant multi-agent generation:** The engine instantly activates four specialized psychographic AI personas simultaneously, assigning distinct target behavioral motivations behind the scenes.
+4. **Autonomous persona evaluation:** The four virtual personas independently analyze your concept from their unique domain perspectives, utilizing blunt, realistic startup and technical jargon to deliver unfiltered critique.
+5. **Dashboard metrics synthesis:** Real-time feedback analytics, dynamic sentiment tracking, and individual validation cards are compiled and presented on your dashboard within seconds.
 
 ---
 

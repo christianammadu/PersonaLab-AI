@@ -35,7 +35,7 @@ Launching products or marketing copies without customer validation is expensive 
 Users simply describe their business idea or copy variation in a simple text block. PersonalLab AI automatically generates multiple realistic customer personas that independently evaluate the concept from their unique psychographic perspectives to produce a comprehensive market intelligence breakdown:
 
 * **Individual persona feedback** mapped to distinct consumer behaviors.
-* **Macro market sentiment** distribution.
+* **Macro market sentiment** distribution tracker.
 * **Target pricing recommendations** and budget expectations.
 * **Core strengths** and immediate product advantages.
 * **Core weaknesses** and user interface friction points.
@@ -51,6 +51,9 @@ Users simply describe their business idea or copy variation in a simple text blo
 
 ### 📈 Multi-Agent Behavioral Analytics Grid
 ![Individual Persona Feedback](./personalab image2.jpeg)
+
+### ⚙️ Live API Ingestion & JSON Metrics Layer
+![Inference JSON View](./Metrics json data view.jpeg)
 
 ---
 

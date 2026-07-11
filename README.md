@@ -46,16 +46,11 @@ Users simply describe their business idea or copy variation in a simple text blo
 
 ## 📊 Live Demo Evidence
 
-### 🎬 Interactive Presentation Walkthrough
-Watch the platform securely parse input ideas and generate completely separate customer evaluations in under two seconds:
-
-[▶ View Live App Demo Video](./PersonalabAIDemoVideo.mp4)
-
 ### 🖥️ Main Dashboard Matrix
-![Core Interface UI](./personalab image1.Jpeg)
+![Core Interface UI](./personalab image1.jpeg)
 
 ### 📈 Multi-Agent Behavioral Analytics Grid
-![Individual Persona Feedback](./personalab image2.Jpeg)
+![Individual Persona Feedback](./personalab image2.jpeg)
 
 ---
 
